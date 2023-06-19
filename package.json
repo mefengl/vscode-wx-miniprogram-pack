@@ -1,0 +1,23 @@
+{
+  "name": "vscode-wx-miniprogram-pack",
+  "displayName": "WX MiniProgram Pack",
+  "description": "Personally selected WeChat mini program plugins~",
+  "icon": "res/logo.png",
+  "author": "mefengl",
+  "publisher": "mefengl",
+  "repository": "https://github.com/mefengl/vscode-wx-miniprogram-pack",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "qiu8310.minapp-vscode",
+    "dy.wx-command",
+    "developer2006.svg-gallery"
+  ]
+}
