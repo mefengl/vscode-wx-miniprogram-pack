@@ -17,7 +17,7 @@
   ],
   "extensionPack": [
     "qiu8310.minapp-vscode",
-    "dy.wx-command",
+    "mefengl.vscode-wx-create",
     "developer2006.svg-gallery"
   ]
 }
